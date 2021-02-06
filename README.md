@@ -1,5 +1,4 @@
 # kitkat_lunch_bot
-<hr>
 
 ### bot link
 https://t.me/Kitkat_Lunch_bot
